@@ -1,4 +1,4 @@
-## INFIX-CONVERTER
+## INFIX-CONVERTER(AN APPLICATION OF STACK)
 
 # USE
 converts an infix expression to postfix or prefix as per users choice.
